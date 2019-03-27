@@ -1,0 +1,56 @@
+#tabela {
+	border: 1px solid #dddddd;
+	font-family: Arial;
+	border-spacing: 0px;	
+}
+#formatacao{
+	font-size: 14px;
+	color: black;
+	font-weight: bold;
+	text-align: center;
+}
+
+td{
+	font-size: 14px;
+	color: #666666;
+	text-align: center;
+}
+
+#forma{
+	font-size: 13px;
+	color: #999999;
+	font-weight: bold;
+	text-align: center;
+}
+#tabela td{
+	border: 1px solid #dddddd;
+	padding: 10px;
+}
+
+.Classificacao{
+	font-size:  14px;
+	color:#666666; 
+	font-weight: bold;
+	text-align: left;
+}
+.corclassi{
+	color: #003366;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: center;
+}
+.CordeFundo{
+	background-color: #F7F7F7;
+}
+.corcla{
+	color: #1398BE;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: center;
+}
+.cor56{
+	color: #DE9800;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: center;
+}
