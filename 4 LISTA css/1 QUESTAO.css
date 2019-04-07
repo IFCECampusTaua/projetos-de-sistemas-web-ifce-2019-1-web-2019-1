@@ -1,0 +1,78 @@
+body {
+    height:50%; 
+    width:25%;
+ }
+body{
+  color: white;
+  text-align: center;
+  font-size: 26px;
+}
+body {
+    behavior: url(csshover3.htc);
+    border-radius:20px;
+}
+header{
+  background-color: Crimson;
+  height: 60px;
+  margin: 0.15em;
+}
+nav{
+  background-color: Orange;
+  height: 60px;
+}
+.aside{
+  background-color: DodgerBlue ;
+  height: 250px;
+  width: 130px;
+  float: right;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin: 0.15em;
+}
+.section{
+  background-color:  MediumSeaGreen;
+  height: 250px;
+  overflow: hidden;
+  text-align: center;
+  line-height: 100px;
+  margin: 0.15em;
+}
+.article1{
+  background-color: #33CC00; 
+  height: 50px;
+  width: 170px;
+  top: 40%;
+  left: 0%;
+  position: absolute;
+  margin-right: 80%;
+  transform: translate(10%, 70%);
+  margin-top: 30px; 
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin: 0.15em;
+}
+.article2{
+  background-color: #33CC00; 
+  height: 50px;
+  width: 170px;
+  top: 30%;
+  left: 0%;
+  position: absolute;
+  margin-right: 80%;
+  transform: translate(10%, 70%); 
+  margin-top: 30px; 
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin: 0.15em;
+}
+.footer{
+  background-color: DarkGrey;
+  height: 60px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin: 0.15em;
+}
